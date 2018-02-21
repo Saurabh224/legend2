@@ -1,4 +1,4 @@
-// tum dono gadhe ho
+// tum panda ho aur somu ko bole pakad le vimal ka
 #include<stdio.h>
 #include<stdlib.h>
 #include<signal.h>
