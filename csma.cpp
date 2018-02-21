@@ -1,4 +1,4 @@
-// tum panda ho aur somu ko bole pakad le vimal ka
+//LEGENDS
 #include<stdio.h>
 #include<stdlib.h>
 #include<signal.h>
